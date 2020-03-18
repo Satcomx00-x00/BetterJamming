@@ -1,4 +1,4 @@
-# :heavy_check_mark: BetterJamming
+# :heavy_check_mark: BetterJamming By Satcom
 
 :heavy_exclamation_mark: Installation: </p>
 
