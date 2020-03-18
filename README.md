@@ -3,4 +3,4 @@
 Installation:
 
 Python requirements : netifaces,time, os, subprocess
-run apt install aircrack-ng
+run <code>apt install aircrack-ng</code>
